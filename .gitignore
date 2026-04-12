@@ -1,0 +1,12 @@
+# Python缓存
+__pycache__/
+*.pyc
+
+# Mac系统文件
+.DS_Store
+
+# 输出结果（运行后生成，不需要传）
+results/*.csv
+
+# 大数据文件（如果precipitation.xlsx很大）
+# *.xlsx
